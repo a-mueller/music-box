@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pico-w")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/pico_w_board")(options "")(descr ""))
+  (lib (name "shottky")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/PMEG2005AEA/footprints.pretty")(options "")(descr ""))
+  (lib (name "i2s-amp")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/i2s-amp-MAX98357AETE-T/footprints.pretty")(options "")(descr ""))
+  (lib (name "sd-holder")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/sd-card-holder-MEM2061-01-188-00-A/footprints.pretty")(options "")(descr ""))
+  (lib (name "resistor_array")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/resistor_array_concave_4x_0804/footprints.pretty")(options "")(descr ""))
+)
