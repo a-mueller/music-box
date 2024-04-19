@@ -42,5 +42,5 @@ Flash circuit python (originally I used v9) and copy the lib folder and `code.py
 
 ## Case
 
-See FreeCad files in `3dPrinting`
+See FreeCad files in `3dPrinting`, you will need a usbc power board as well to power it (see https://github.com/a-mueller/usbc_power_supply_2)
 
