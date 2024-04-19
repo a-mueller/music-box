@@ -11,7 +11,7 @@ See KiCad files.
 
 ### Schematic
 
-![Schematic](img/schematic.png)
+![Schematic](img/schematics.png)
 
 ### PCB
 
